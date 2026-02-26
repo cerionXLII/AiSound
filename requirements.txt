@@ -1,3 +1,7 @@
 librosa
 matplotlib
 numpy
+datasets[audio] 
+soundfile 
+torchcodec
+resampy
