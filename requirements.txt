@@ -3,5 +3,5 @@ matplotlib
 numpy
 datasets[audio] 
 soundfile 
-torchcodec
+#torchcodec
 resampy
